@@ -10,6 +10,7 @@ Tasks performed:
 
 `Initiated Git repository, pushed files to Githib repo`
 `Configered Jenkins with appropraite add-ins- JDK, Blue Ocean, pipeline, Git, AWS`
+'Jenkins global tools configeration, created users, webhook`
 `Ran Jenkins Master slave using Docker container`
 `Installed publish over SSH Jenkins plugin`
 `Created Ansible plyabook to install necessary package- npm,create-react-app and deploy to AWS EC2 instance`
