@@ -3,7 +3,10 @@ Emoji Search
 
 Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
+Application web URL
+---
 
+http://ec2-107-20-78-58.compute-1.amazonaws.com:3000/
 
 Tasks performed:
 ---
