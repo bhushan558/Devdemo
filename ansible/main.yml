@@ -1,0 +1,10 @@
+---
+- hosts: nodes
+  remote_user: ansible
+  become: yes
+  become_method: sudo
+  vars:
+    temp_folder: /tmp
+  tasks:    
+    # Install Node.js    
+    - include: tasks/nodejs.yml

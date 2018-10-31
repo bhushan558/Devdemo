@@ -1,0 +1,4 @@
+- name: Node.js | Get script
+  get_url:
+    url: "http://deb.nodesource.com/setup_6.x"
+    dest: "{{ temp_folder }}/nodejs.sh"
